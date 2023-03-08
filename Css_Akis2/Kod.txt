@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="CSS.css" rel=" stylesheet"/>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body style="background-color:#330101" >
+    <div id="enüst"><div id="kutu1"><div id="kutu2"><div id="kutu3"></div></div></div></div>
+    <div id="kutualt1"><p style="position:absolute;left:5px">SSS</p></div>
+    <div id="kutualt1"><p id="ortapyazı2">SSS</p></div>
+    <div id="kutualt1"><p id="ortapyazı3">SSS</p></div>
+    <div id="pardiv"><p>Lorem Ipsum kisaca Lipsum masaustu yayincilik ve basin yayin sektorunde kullanilan taklit yazi blogu olarak tanimlanir Lipsum olusturulacak sablon ve taslaklarda icerik yerine gecerek yazi blogunu doldurmak icin kullanilir</p></div>
+    <div style="margin-top:20px;background-color:brown;width:515px;height:35px;position:relative"></div>
+    <div id="yuvarlak"><img src="Images/İnstagram.jpg" width="60" height="60" style="border-radius:50px" /></div>
+    <div id="yuvarlak"><img src="Images/İnstagram.jpg" width="60" height="60" style="border-radius:50px" /></div>
+    <div id="yuvarlak"><img src="Images/İnstagram.jpg" width="60" height="60" style="border-radius:50px" /></div>
+    <div id="yuvarlak"><img src="Images/İnstagram.jpg" width="60" height="60" style="border-radius:50px" /></div>
+
+
+</body>
+</html>
